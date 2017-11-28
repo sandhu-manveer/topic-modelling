@@ -1,0 +1,22 @@
+# python specific
+__pycache__
+*.pyc
+
+
+# data and models
+/models
+/preprocessed_data
+/raw_corpus
+/raw_data
+/results
+*.html
+*.txt
+*.pickle
+*.pkl
+*.dict
+*.d2v
+*.model
+
+# vscode files
+.vscode
+
